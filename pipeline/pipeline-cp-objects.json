@@ -1,7 +1,7 @@
 {
 	"name": "pipeline-cp-objects",
 	"properties": {
-		"description": "Copy objects between blob storages. ",
+		"description": "Copy objects between blob storage's. ",
 		"annotations": []
 	}
 }
