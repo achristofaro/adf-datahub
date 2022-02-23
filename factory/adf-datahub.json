@@ -1,0 +1,9 @@
+{
+	"name": "adf-datahub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b18343bb-c219-4824-a40b-537f4fc39cae",
+		"tenantId": "f9cfd8cb-c4a5-4677-b65d-3150dda310c9"
+	}
+}
